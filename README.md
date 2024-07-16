@@ -1,0 +1,2 @@
+# sqsc
+Local squarespace development
